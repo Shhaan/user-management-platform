@@ -60,7 +60,7 @@ integration, and centralized state handling.
 
 ## Tech Stack
 
-Backend: - Python - Django - Django REST Framework - SQLite / PostgreSQL
+Backend: - Python - Django - Django REST Framework - SQLite 
 
 Frontend: - React - Redux - JavaScript
 
